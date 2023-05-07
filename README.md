@@ -1,6 +1,6 @@
 # My Hotel Reservation App 
 
-##Tools I used to make this page : 
+## Tools I used to make this page : 
 
 React
 Redux
