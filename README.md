@@ -3,6 +3,7 @@
 ## Tools I used to make this page : 
 
 React
+</br>
 Redux
 Animations.css
 MaterialUi
